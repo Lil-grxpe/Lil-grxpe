@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="640" viewBox="0 0 900 640" role="img" aria-label="Lionel, cybersecurity student">
+  <style>
+    .bg  { fill: #ffffff; stroke: #d0d7de; }
+    .fg  { fill: #0d1117; }
+    .mut { fill: #57606a; }
+    .acc { fill: #0969da; }
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    @media (prefers-color-scheme: dark) {
+      .bg  { fill: #0d1117; stroke: #30363d; }
+      .fg  { fill: #e6edf3; }
+      .mut { fill: #8b949e; }
+      .acc { fill: #58a6ff; }
+    }
+  </style>
+  <rect class="bg" x="0.5" y="0.5" width="899" height="639" rx="12" stroke-width="1"/>
+  <circle class="mut" cx="28" cy="26" r="5"/>
+  <circle class="mut" cx="48" cy="26" r="5"/>
+  <circle class="mut" cx="68" cy="26" r="5"/>
+  <text class="mut" x="40" y="82" font-size="18">$ whoami</text>
+  <text class="fg" x="40" y="138" font-size="56" font-weight="700">Lionel</text>
+  <text class="mut" x="40" y="176" font-size="20">Cybersecurity student · Linux hardening · LLM security (theory)</text>
+  <text class="acc" x="40" y="232" font-size="16">$ cat currently.md</text>
+  <text class="fg" x="40" y="262" font-size="17">- Preparing the 42 Piscine: C, shell, algorithms</text>
+  <text class="acc" x="40" y="312" font-size="16">$ cat background.md</text>
+  <text class="fg" x="40" y="342" font-size="17">- Academic PAM and FIM architecture: Tailscale, Guacamole,</text>
+  <text class="fg" x="40" y="368" font-size="17">  Ansible, Auditd, Promtail/Loki/Grafana, sudo RBAC</text>
+  <text class="fg" x="40" y="394" font-size="17">- Hardening: Linux, Docker, Fail2Ban, MFA, Active Directory</text>
+  <text class="fg" x="40" y="420" font-size="17">- AI security: RAG, agents, OWASP LLM Top 10, prompt injection,</text>
+  <text class="fg" x="40" y="446" font-size="17">  guardrails. No production work yet.</text>
+  <text class="acc" x="40" y="496" font-size="16">$ ls stack/</text>
+  <text class="fg" x="40" y="526" font-size="17">Bash  C  Python  Linux (Kali)  Docker  Ansible</text>
+  <text class="acc" x="40" y="582" font-size="16">$ mail</text>
+  <text class="mut" x="40" y="608" font-size="17">camddvi@gmail.com</text>
+
+  <g transform="translate(710,8) rotate(-8 60 60)">
+    <ellipse cx="60" cy="92" rx="52" ry="8" fill="#000" opacity="0.15"/>
+    <ellipse cx="55" cy="58" rx="34" ry="25" fill="#FFD93B" stroke="#ffffff" stroke-width="7"/>
+    <path d="M22 50 L-2 32 L14 44 Z" fill="#FFD93B" stroke="#ffffff" stroke-width="7" stroke-linejoin="round"/>
+    <circle cx="74" cy="30" r="19" fill="#FFD93B" stroke="#ffffff" stroke-width="7"/>
+    <path d="M90 30 q16 6 0 13 z" fill="#FF8C00" stroke="#ffffff" stroke-width="6" stroke-linejoin="round"/>
+    <circle cx="80" cy="25" r="3.2" fill="#1f2328"/>
+    <ellipse cx="46" cy="58" rx="15" ry="9" fill="#F5C000"/>
+  </g>
+  <g transform="translate(762,452) rotate(7 50 50)">
+    <path d="M18 30 h60 v30 a26 26 0 0 1 -26 26 h-8 a26 26 0 0 1 -26 -26 z" fill="#ffffff" stroke="#8b949e" stroke-width="6" stroke-linejoin="round"/>
+    <path d="M78 38 h10 a12 12 0 0 1 0 24 h-10" fill="none" stroke="#8b949e" stroke-width="6"/>
+    <path d="M34 14 q6 -8 0 -14 M52 14 q6 -8 0 -14" fill="none" stroke="#8b949e" stroke-width="5" stroke-linecap="round"/>
+    <path d="M32 44 h34" stroke="#c9a227" stroke-width="6" stroke-linecap="round"/>
+  </g>
+</svg>
