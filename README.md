@@ -14,7 +14,7 @@ Preparing the 42 Piscine: C, shell, algorithms. Long-term specialization still o
 
 An academic project in privileged access management and file integrity monitoring: Tailscale, Apache Guacamole, Ansible, Auditd, Promtail/Loki/Grafana, sudo RBAC. Hardening labs on Linux, Docker, Fail2Ban, MFA and Active Directory.
 
-Theoretical knowledge of RAG, AI agents and LLM security — OWASP LLM Top 10, prompt injection, guardrails — with no production work there yet.
+Basical knowledge of RAG, AI agents and LLM security — OWASP LLM Top 10, prompt injection, guardrails — with no production work there yet.
 
 ## Stack
 
