@@ -2,8 +2,6 @@
 
 <img src="banner.svg" alt="Lionel, cybersecurity student" width="100%">
 
-[Email](mailto:camddvi@gmail.com)
-
 </div>
 
 ## Currently
@@ -19,3 +17,7 @@
 ## Stack
 
 `Bash` `C` `Python` `Linux (Kali)` `Docker` `Ansible`
+
+---
+
+Email: [camddvi@gmail.com](mailto:camddvi@gmail.com)
