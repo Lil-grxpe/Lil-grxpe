@@ -1,23 +1,5 @@
 <div align="center">
 
-<img src="banner.svg" alt="Lionel, cybersecurity student" width="100%">
+<img src="profil.svg" alt="Lionel, cybersecurity student. Preparing the 42 Piscine: C, shell, algorithms. Background: PAM and FIM architecture, Linux hardening, theoretical AI security. Stack: Bash, C, Python, Linux, Docker, Ansible. Email: camddvi@gmail.com" width="100%">
 
 </div>
-
-## Currently
-
-- Preparing the **42 Piscine**: C, shell, algorithms
-
-## Background
-
-- **Access control and integrity**: academic PAM and FIM architecture with Tailscale, Apache Guacamole, Ansible, Auditd, Promtail/Loki/Grafana, sudo RBAC
-- **Hardening**: Linux, Docker, Fail2Ban, MFA, Active Directory
-- **AI security**: RAG, agents, OWASP LLM Top 10, prompt injection, guardrails. No production work yet.
-
-## Stack
-
-`Bash` `C` `Python` `Linux (Kali)` `Docker` `Ansible`
-
----
-
-Email: [camddvi@gmail.com](mailto:camddvi@gmail.com)
