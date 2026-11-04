@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230" role="img" aria-label="Lionel, cybersecurity student">
+  <style>
+    .bg  { fill: #ffffff; stroke: #d0d7de; }
+    .fg  { fill: #0d1117; }
+    .mut { fill: #57606a; }
+    .acc { fill: #0969da; }
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    @media (prefers-color-scheme: dark) {
+      .bg  { fill: #0d1117; stroke: #30363d; }
+      .fg  { fill: #e6edf3; }
+      .mut { fill: #8b949e; }
+      .acc { fill: #58a6ff; }
+    }
+  </style>
+  <rect class="bg" x="0.5" y="0.5" width="899" height="229" rx="12" stroke-width="1"/>
+  <circle class="mut" cx="28" cy="26" r="5"/>
+  <circle class="mut" cx="48" cy="26" r="5"/>
+  <circle class="mut" cx="68" cy="26" r="5"/>
+  <text class="mut" x="40" y="82" font-size="18">$ whoami</text>
+  <text class="fg" x="40" y="138" font-size="56" font-weight="700">Lionel</text>
+  <text class="mut" x="40" y="176" font-size="20">Cybersecurity student · Linux hardening · LLM security (theory)</text>
+  <text class="acc" x="40" y="208" font-size="16">$ ./piscine --prep   # C, shell, algorithms</text>
+</svg>
