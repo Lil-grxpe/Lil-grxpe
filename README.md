@@ -1,14 +1,10 @@
 <div align="center">
 
-# Lionel
-
-**Cybersecurity student** · Linux hardening · LLM security 
+<img src="banner.svg" alt="Lionel, cybersecurity student" width="100%">
 
 [Email](camddvi@email)
 
 </div>
-
----
 
 ## Currently
 
