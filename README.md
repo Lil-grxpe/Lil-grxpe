@@ -2,20 +2,24 @@
 
 # Lionel
 
-Cybersecurity student, hardening Linux systems and reading on LLM security.
+**Cybersecurity student** · Linux hardening · LLM security (theory)
+
+[Email](camddvi@email)
 
 </div>
 
+---
+
 ## Currently
 
-Preparing the 42 Piscine: C, shell, algorithms. Long-term specialization still open between AI and security with AI integrated.
+- Preparing the **42 Piscine**: C, shell, algorithms
 
 ## Background
 
-An academic project in privileged access management and file integrity monitoring: Tailscale, Apache Guacamole, Ansible, Auditd, Promtail/Loki/Grafana, sudo RBAC. Hardening labs on Linux, Docker, Fail2Ban, MFA and Active Directory.
-
-Basical knowledge of RAG, AI agents and LLM security — OWASP LLM Top 10, prompt injection, guardrails — with no production work there yet.
+- **Access control and integrity**: academic PAM and FIM architecture with Tailscale, Apache Guacamole, Ansible, Auditd, Promtail/Loki/Grafana, sudo RBAC
+- **Hardening**: Linux, Docker, Fail2Ban, MFA, Active Directory
+- **AI security (theory)**: RAG, agents, OWASP LLM Top 10, prompt injection, guardrails. No production work yet.
 
 ## Stack
 
-Bash, C, Python, Linux (Kali), Docker, Ansible.
+`Bash` `C` `Python` `Linux (Kali)` `Docker` `Ansible`
