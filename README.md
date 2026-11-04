@@ -2,7 +2,7 @@
 
 <img src="banner.svg" alt="Lionel, cybersecurity student" width="100%">
 
-[Email](camddvi@gmail.com)
+[Email](mailto:camddvi@gmail.com)
 
 </div>
 
