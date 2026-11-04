@@ -2,7 +2,7 @@
 
 # Lionel
 
-**Cybersecurity student** · Linux hardening · LLM security (theory)
+**Cybersecurity student** · Linux hardening · LLM security 
 
 [Email](camddvi@email)
 
