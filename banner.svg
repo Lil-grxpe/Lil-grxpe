@@ -18,6 +18,6 @@
   <circle class="mut" cx="68" cy="26" r="5"/>
   <text class="mut" x="40" y="82" font-size="18">$ whoami</text>
   <text class="fg" x="40" y="138" font-size="56" font-weight="700">Lionel</text>
-  <text class="mut" x="40" y="176" font-size="20">Cybersecurity student · Linux hardening · LLM security (theory)</text>
+  <text class="mut" x="40" y="176" font-size="20">Cybersecurity student · Linux hardening · LLM security (side interest)</text>
   <text class="acc" x="40" y="208" font-size="16">$ ./piscine --prep   # C, shell, algorithms</text>
 </svg>
